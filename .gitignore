@@ -1,0 +1,23 @@
+# Java build output
+/bin/
+/build/
+/target/
+*.class
+
+# Generated simulation output
+/results.csv
+
+# Eclipse workspace-local metadata
+/.metadata/
+/.settings/
+
+# IDE/editor metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
